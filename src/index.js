@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useState, useCallback } from "react";
 import ReactDOM from "react-dom";
+import './index.css'
+
 const App = () => {
 
   return (
     <div>
-      App
     </div>
   );
 };
